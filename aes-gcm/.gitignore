@@ -1,0 +1,13 @@
+bin/*
+
+build/*
+
+.cache
+.cache/
+.cache/*
+.vscode
+.vscode/
+.vscode/*
+.vscode/targets.log
+.vscode/configurationCache.log
+.vscode/targets.log
