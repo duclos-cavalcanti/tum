@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['data_5fpresence_2940',['data_presence',['../classshark_1_1UsbPacket.html#a46ad9f76cf5d98af9865319e23e011ad',1,'shark::UsbPacket']]],
+  ['data_5fsize_2941',['data_size',['../classshark_1_1UsbPacket.html#a904de33069178e81770cd7be4f57a19c',1,'shark::UsbPacket']]],
+  ['debug_2942',['DEBUG',['../namespaceshark.html#a53d164b244110d7b70fd0881873c6a64',1,'shark']]],
+  ['default_2943',['default',['../namespaceconvert.html#ab9da3e8556c60217e4682dc066f69ba9',1,'convert.default()'],['../namespacecmpile.html#a3afa88b2aad5c1c6a29cfa40f6fd3af8',1,'cmpile.default()'],['../namespaceanalyze.html#aaad00ef73e86aeccb7cdf369c939f334',1,'analyze.default()'],['../namespacedeploy.html#ace4f9a16827bfe16b0fc9ea465a8338a',1,'deploy.default()'],['../namespaceparse.html#a7e13dbcf6de2fd48ab1acff3961280e3',1,'parse.default()'],['../namespaceplot.html#a94ae45067611c622402112cdc0872ca4',1,'plot.default()'],['../namespaceshark.html#af13e500cea6c0dd9b9aaef02aa005500',1,'shark.default()']]],
+  ['default_2944',['DEFAULT',['../classtflite_1_1FullyConnectedOptionsWeightsFormat_1_1FullyConnectedOptionsWeightsFormat.html#a957fb7b3ac0abb77f87f9e93e410fd80',1,'tflite::FullyConnectedOptionsWeightsFormat::FullyConnectedOptionsWeightsFormat']]],
+  ['delegate_2945',['DELEGATE',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a2bd9a610c546b8504fc8d52337be4a29',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['dense_2946',['DENSE',['../classtflite_1_1LSHProjectionType_1_1LSHProjectionType.html#a9a0f93e3e257d6adf848d096274079ed',1,'tflite.LSHProjectionType.LSHProjectionType.DENSE()'],['../classtflite_1_1DimensionType_1_1DimensionType.html#a16d7a788c80bd747106c115bc55554f1',1,'tflite.DimensionType.DimensionType.DENSE()']]],
+  ['densify_2947',['DENSIFY',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#ad119911f31925ffa3ec6279b827ecd62',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['densifyoptions_2948',['DensifyOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#a5202898668be9bce57819443b5095785',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['depth_5fto_5fspace_2949',['DEPTH_TO_SPACE',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#ab8302c150ca9b50346a6f668d7e18bc7',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['depthtospaceoptions_2950',['DepthToSpaceOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#aadbaff54d05a4e65b5325f44e3dbc6f0',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['depthwise_5fconv_5f2d_2951',['DEPTHWISE_CONV_2D',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#acce1fd90d3c49947eb6900d0e09fd7b3',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['depthwiseconv2doptions_2952',['DepthwiseConv2DOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#a50ebf67fefff73ffd3c3457dabe3e253',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['dequantize_2953',['DEQUANTIZE',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a1feddf9dfe684d8410587637555e4eb6',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['dequantizeoptions_2954',['DequantizeOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#ac6f7d853abb5705a537d1ba2d727bcef',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['dest_2955',['dest',['../classshark_1_1UsbPacket.html#a8dc6bce5ae358a5f4b601d6230f6b892',1,'shark::UsbPacket']]],
+  ['direction_2956',['direction',['../classshark_1_1UsbPacket.html#ac02249b24d1605c96c0a8f114079f7fe',1,'shark::UsbPacket']]],
+  ['dist_5fname_2957',['dist_name',['../classanalyze_1_1Operation.html#ac015d5d9119e7018adf4e720bfbabe9f',1,'analyze::Operation']]],
+  ['div_2958',['DIV',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a85876a87dba2ea4dde45b473db274789',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['divoptions_2959',['DivOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#a0f93e509ec5eae85d11134faad67e057',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['docker_2960',['DOCKER',['../namespacedocker.html#a92422644d63f7dbbfe8d7dba6c0330e3',1,'docker']]]
+];

@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['matrix_5fdiag_3060',['MATRIX_DIAG',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#aa07dee631fea0a88816fef09fb575e23',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['matrix_5fset_5fdiag_3061',['MATRIX_SET_DIAG',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a2b193c05759c1b543d989dd4911aff9f',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['matrixdiagoptions_3062',['MatrixDiagOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#ab84aa827bcd5e708f3d9aaa84476f79a',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['matrixsetdiagoptions_3063',['MatrixSetDiagOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#a3743e328f0776f3d45f48c99e30f1279',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['max_5fpool_5f2d_3064',['MAX_POOL_2D',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a752c7ef15403194ee859d1ad4928baa3',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['maximum_3065',['MAXIMUM',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a616a40acda74354f648c9e9724ea58ba',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['maximumminimumoptions_3066',['MaximumMinimumOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#afba665eb7444b6668e3b29a7c5460b78',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['mean_3067',['mean',['../classanalyze_1_1Operation.html#a5ad6c8ee342e832c602d89f7d2153dc4',1,'analyze::Operation']]],
+  ['mean_3068',['MEAN',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a214996fa6d995aeecc05a8ef7214207c',1,'tflite.BuiltinOperator.BuiltinOperator.MEAN()'],['../classtflite_1_1CombinerType_1_1CombinerType.html#aaca0c2b5899f4c4a4163dd143274b237',1,'tflite.CombinerType.CombinerType.MEAN()']]],
+  ['median_3069',['median',['../classanalyze_1_1Operation.html#ae3f3363c34b3238bc1571f4d55370f21',1,'analyze::Operation']]],
+  ['minimum_3070',['MINIMUM',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a5bb38f5377c2aed52e4ec82ff13cb881',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['mirror_5fpad_3071',['MIRROR_PAD',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#aec5b4e48e3aa50c9fcc6ba46b684231e',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['mirrorpadoptions_3072',['MirrorPadOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#adffb2a6699461b4d11e31d52d48f6857',1,'tflite::BuiltinOptions::BuiltinOptions']]],
+  ['mod_3073',['mod',['../namespaceconvert.html#ac1cfd73955457a66f82b57d15e7b56d4',1,'convert']]],
+  ['mod_5fname_3074',['mod_name',['../namespaceconvert.html#a5dfcbf3bc5bb62d65b04d3f90c333e88',1,'convert']]],
+  ['model_3075',['model',['../namespaceparse.html#a73a3a1090e14bde6e491c13e36dac8de',1,'parse']]],
+  ['model_5fname_3076',['model_name',['../namespacecmpile.html#ad33570ae2f986626800fafc28897010e',1,'cmpile.model_name()'],['../namespaceparse.html#a7a54e50529de5148de6d7c0c1d4b3276',1,'parse.model_name()']]],
+  ['models_5ffolder_3077',['MODELS_FOLDER',['../namespaceconvert.html#a5cdd5b67fc713b6f2c14970040da4e11',1,'convert']]],
+  ['models_5finfo_3078',['models_info',['../namespacedeploy.html#a9a24d021ce14a223195a2ec2cd742bfb',1,'deploy.models_info()'],['../namespaceshark.html#a0403266ea467722a4107706346b255f5',1,'shark.models_info()']]],
+  ['mul_3079',['MUL',['../classtflite_1_1BuiltinOperator_1_1BuiltinOperator.html#a49bbd52497cba7ccf3066050a36926a9',1,'tflite::BuiltinOperator::BuiltinOperator']]],
+  ['muloptions_3080',['MulOptions',['../classtflite_1_1BuiltinOptions_1_1BuiltinOptions.html#a6bc249e869d2573314ddf0238180247d',1,'tflite::BuiltinOptions::BuiltinOptions']]]
+];
