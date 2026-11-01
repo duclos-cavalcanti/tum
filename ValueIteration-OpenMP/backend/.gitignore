@@ -1,0 +1,12 @@
+# cmake
+build/*
+
+# cache
+.cache/*
+
+./lib
+./lib/*
+
+*.so
+*.cpp
+*.o
