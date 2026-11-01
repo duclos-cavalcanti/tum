@@ -1,0 +1,254 @@
+@article{elsken2019neural,
+  title={Neural architecture search: A survey},
+  author={Elsken, Thomas and Metzen, Jan Hendrik and Hutter, Frank},
+  journal={The Journal of Machine Learning Research},
+  volume={20},
+  number={1},
+  pages={1997--2017},
+  year={2019},
+  publisher={JMLR. org}
+}
+@article{liu2021survey,
+  title={A survey on evolutionary neural architecture search},
+  author={Liu, Yuqiao and Sun, Yanan and Xue, Bing and Zhang, Mengjie and Yen, Gary G and Tan, Kay Chen},
+  journal={IEEE transactions on neural networks and learning systems},
+  year={2021},
+  publisher={IEEE}
+}
+@article{zoph2016neural,
+  title={Neural architecture search with reinforcement learning},
+  author={Zoph, Barret and Le, Quoc V},
+  journal={arXiv preprint arXiv:1611.01578},
+  year={2016}
+}
+@inproceedings{cai2018efficient,
+  title={Efficient architecture search by network transformation},
+  author={Cai, Han and Chen, Tianyao and Zhang, Weinan and Yu, Yong and Wang, Jun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={32},
+  number={1},
+  year={2018}
+}
+@InProceedings{pmlr-v70-real17a,
+  title = 	 {Large-Scale Evolution of Image Classifiers},
+  author =       {Esteban Real and Sherry Moore and Andrew Selle and Saurabh Saxena and Yutaka Leon Suematsu and Jie Tan and Quoc V. Le and Alexey Kurakin},
+  booktitle = 	 {Proceedings of the 34th International Conference on Machine Learning},
+  pages = 	 {2902--2911},
+  year = 	 {2017},
+  editor = 	 {Precup, Doina and Teh, Yee Whye},
+  volume = 	 {70},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Aug},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v70/real17a/real17a.pdf},
+  url = 	 {https://proceedings.mlr.press/v70/real17a.html},
+  abstract = 	 {Neural networks have proven effective at solving difficult problems but designing their architectures can be challenging, even for image classification problems alone. Our goal is to minimize human participation, so we employ evolutionary algorithms to discover such networks automatically. Despite significant computational requirements, we show that it is now possible to evolve models with accuracies within the range of those published in the last year. Specifically, we employ simple evolutionary techniques at unprecedented scales to discover models for the CIFAR-10 and CIFAR-100 datasets, starting from trivial initial conditions and reaching accuracies of 94.6\% (95.6\% for ensemble) and 77.0\%, respectively. To do this, we use novel and intuitive mutation operators that navigate large search spaces; we stress that no human participation is required once evolution starts and that the output is a fully-trained model. Throughout this work, we place special emphasis on the repeatability of results, the variability in the outcomes and the computational requirements.}
+}
+@inproceedings{zhong2018practical,
+  title={Practical block-wise neural network architecture generation},
+  author={Zhong, Zhao and Yan, Junjie and Wu, Wei and Shao, Jing and Liu, Cheng-Lin},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2423--2432},
+  year={2018}
+}
+@inproceedings{zoph2018learning,
+  title={Learning transferable architectures for scalable image recognition},
+  author={Zoph, Barret and Vasudevan, Vijay and Shlens, Jonathon and Le, Quoc V},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={8697--8710},
+  year={2018}
+}
+
+@InProceedings{pmlr-v80-cai18a,
+  title = 	 {Path-Level Network Transformation for Efficient Architecture Search},
+  author =       {Cai, Han and Yang, Jiacheng and Zhang, Weinan and Han, Song and Yu, Yong},
+  booktitle = 	 {Proceedings of the 35th International Conference on Machine Learning},
+  pages = 	 {678--687},
+  year = 	 {2018},
+  editor = 	 {Dy, Jennifer and Krause, Andreas},
+  volume = 	 {80},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {10--15 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v80/cai18a/cai18a.pdf},
+  url = 	 {https://proceedings.mlr.press/v80/cai18a.html},
+  abstract = 	 {We introduce a new function-preserving transformation for efficient neural architecture search. This network transformation allows reusing previously trained networks and existing successful architectures that improves sample efficiency. We aim to address the limitation of current network transformation operations that can only perform layer-level architecture modifications, such as adding (pruning) filters or inserting (removing) a layer, which fails to change the topology of connection paths. Our proposed path-level transformation operations enable the meta-controller to modify the path topology of the given network while keeping the merits of reusing weights, and thus allow efficiently designing effective structures with complex path topologies like Inception models. We further propose a bidirectional tree-structured reinforcement learning meta-controller to explore a simple yet highly expressive tree-structured architecture space that can be viewed as a generalization of multi-branch architectures. We experimented on the image classification datasets with limited computational resources (about 200 GPU-hours), where we observed improved parameter efficiency and better test results (97.70% test accuracy on CIFAR-10 with 14.3M parameters and 74.6% top-1 accuracy on ImageNet in the mobile setting), demonstrating the effectiveness and transferability of our designed architectures.}
+}
+@InProceedings{Huang_2017_CVPR,
+author = {Huang, Gao and Liu, Zhuang and van der Maaten, Laurens and Weinberger, Kilian Q.},
+title = {Densely Connected Convolutional Networks},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {July},
+year = {2017}
+}
+@article{liu2018darts,
+  title={Darts: Differentiable architecture search},
+  author={Liu, Hanxiao and Simonyan, Karen and Yang, Yiming},
+  journal={arXiv preprint arXiv:1806.09055},
+  year={2018}
+}
+@article{zela2018towards,
+  title={Towards automated deep learning: Efficient joint neural architecture and hyperparameter search},
+  author={Zela, Arber and Klein, Aaron and Falkner, Stefan and Hutter, Frank},
+  journal={arXiv preprint arXiv:1807.06906},
+  year={2018}
+}
+@article{klein2018towards,
+  title={Towards reproducible neural architecture and hyperparameter search},
+  author={Klein, Aaron and Christiansen, Eric and Murphy, Kevin and Hutter, Frank},
+  year={2018}
+}
+@article{chrabaszcz2017downsampled,
+  title={A downsampled variant of imagenet as an alternative to the cifar datasets},
+  author={Chrabaszcz, Patryk and Loshchilov, Ilya and Hutter, Frank},
+  journal={arXiv preprint arXiv:1707.08819},
+  year={2017}
+}
+@inproceedings{domhan2015speeding,
+  title={Speeding up automatic hyperparameter optimization of deep neural networks by extrapolation of learning curves},
+  author={Domhan, Tobias and Springenberg, Jost Tobias and Hutter, Frank},
+  booktitle={Twenty-fourth international joint conference on artificial intelligence},
+  year={2015}
+}
+@article{lin2020mcunet,
+  title={Mcunet: Tiny deep learning on iot devices},
+  author={Lin, Ji and Chen, Wei-Ming and Lin, Yujun and Gan, Chuang and Han, Song and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={11711--11722},
+  year={2020}
+}
+@inproceedings{radosavovic2020designing,
+  title={Designing network design spaces},
+  author={Radosavovic, Ilija and Kosaraju, Raj Prateek and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10428--10436},
+  year={2020}
+}
+@inproceedings{abadi2016tensorflow,
+  title={$\{$TensorFlow$\}$: A System for $\{$Large-Scale$\}$ Machine Learning},
+  author={Abadi, Mart{\'\i}n and Barham, Paul and Chen, Jianmin and Chen, Zhifeng and Davis, Andy and Dean, Jeffrey and Devin, Matthieu and Ghemawat, Sanjay and Irving, Geoffrey and Isard, Michael and others},
+  booktitle={12th USENIX symposium on operating systems design and implementation (OSDI 16)},
+  pages={265--283},
+  year={2016}
+}
+@article{lai1801efficient,
+  title={Efficient neural network kernels for arm cortex-M CPUs. arXiv 2018},
+  author={Lai, L and Suda, N and Chandra, V CMSIS-NN},
+  journal={arXiv preprint arXiv:1801.06601}
+}
+@inproceedings{tan2019mnasnet,
+  title={Mnasnet: Platform-aware neural architecture search for mobile},
+  author={Tan, Mingxing and Chen, Bo and Pang, Ruoming and Vasudevan, Vijay and Sandler, Mark and Howard, Andrew and Le, Quoc V},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2820--2828},
+  year={2019}
+}
+@article{elsken2017simple,
+  title={Simple and efficient architecture search for convolutional neural networks},
+  author={Elsken, Thomas and Metzen, Jan-Hendrik and Hutter, Frank},
+  journal={arXiv preprint arXiv:1711.04528},
+  year={2017}
+}
+@inproceedings{zhang2019identify,
+  title={Identify hierarchical structures from task-based fMRI data via hybrid spatiotemporal neural architecture search net},
+  author={Zhang, Wei and Zhao, Lin and Li, Qing and Zhao, Shijie and Dong, Qinglin and Jiang, Xi and Zhang, Tuo and Liu, Tianming},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={745--753},
+  year={2019},
+  organization={Springer}
+}
+@inproceedings{zhu2019eena,
+  title={EENA: Efficient evolution of neural architecture},
+  author={Zhu, Hui and An, Zhulin and Yang, Chuanguang and Xu, Kaiqiang and Zhao, Erhu and Xu, Yongjun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
+@inproceedings{xie2017genetic,
+  title={Genetic cnn},
+  author={Xie, Lingxi and Yuille, Alan},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={1379--1388},
+  year={2017}
+}
+@article{sun2019evolving,
+  title={Evolving deep convolutional neural networks for image classification},
+  author={Sun, Yanan and Xue, Bing and Zhang, Mengjie and Yen, Gary G},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={24},
+  number={2},
+  pages={394--407},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{fujino2017deep,
+  title={Deep convolutional networks for human sketches by means of the evolutionary deep learning},
+  author={Fujino, Saya and Mori, Naoki and Matsumoto, Keinosuke},
+  booktitle={2017 Joint 17th World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS)},
+  pages={1--5},
+  year={2017},
+  organization={IEEE}
+}
+@article{sun2019completely,
+  title={Completely automated CNN architecture design based on blocks},
+  author={Sun, Yanan and Xue, Bing and Zhang, Mengjie and Yen, Gary G},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={31},
+  number={4},
+  pages={1242--1254},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{irwin2019graph,
+  title={A graph-based encoding for evolutionary convolutional neural network architecture design},
+  author={Irwin-Harris, William and Sun, Yanan and Xue, Bing and Zhang, Mengjie},
+  booktitle={2019 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={546--553},
+  year={2019},
+  organization={IEEE}
+}
+@inproceedings{chen2019auto,
+  title={Auto-creation of effective neural network architecture by evolutionary algorithm and ResNet for image classification},
+  author={Chen, Zefeng and Zhou, Yuren and Huang, Zhengxin},
+  booktitle={2019 IEEE international conference on systems, man and cybernetics (SMC)},
+  pages={3895--3900},
+  year={2019},
+  organization={IEEE}
+}
+@inproceedings{song2020efficient,
+  title={Efficient residual dense block search for image super-resolution},
+  author={Song, Dehua and Xu, Chang and Jia, Xu and Chen, Yiyi and Xu, Chunjing and Wang, Yunhe},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={12007--12014},
+  year={2020}
+}
+@inproceedings{real2019regularized,
+  title={Regularized evolution for image classifier architecture search},
+  author={Real, Esteban and Aggarwal, Alok and Huang, Yanping and Le, Quoc V},
+  booktitle={Proceedings of the aaai conference on artificial intelligence},
+  volume={33},
+  number={01},
+  pages={4780--4789},
+  year={2019}
+}
+@article{sun2018igd,
+  title={IGD indicator-based evolutionary algorithm for many-objective optimization problems},
+  author={Sun, Yanan and Yen, Gary G and Yi, Zhang},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={23},
+  number={2},
+  pages={173--187},
+  year={2018},
+  publisher={IEEE}
+}
+@article{banbury2021micronets,
+  title={Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers},
+  author={Banbury, Colby and Zhou, Chuteng and Fedorov, Igor and Matas, Ramon and Thakker, Urmish and Gope, Dibakar and Janapa Reddi, Vijay and Mattina, Matthew and Whatmough, Paul},
+  journal={Proceedings of Machine Learning and Systems},
+  volume={3},
+  pages={517--532},
+  year={2021}
+}
